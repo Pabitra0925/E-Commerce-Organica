@@ -118,10 +118,3 @@ Contributions are welcome! If you want to contribute to Organica, please follow 
 5. Submit a pull request to the main repository.
 
 
-## Contact
-
-If you have any questions or suggestions, feel free to contact the project maintainers:
-
-- Vivek Kakadiya - vivek.kakadiya111@gmail.com
-
-
